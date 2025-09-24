@@ -1,1 +1,24 @@
 
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "body": "This is a post.",
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Great post!",
+      "postId": 1
+    }
+  ]
+}
